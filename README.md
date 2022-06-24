@@ -1,1 +1,1 @@
-# alura-git
+# Aprendendo Git e GitHub com a Alura #
